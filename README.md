@@ -12,9 +12,9 @@ Uno de los servicios de mensajería qué más se emplean actualmente es el MQTT,
 Desarrollar un programa que permita el envío y recepción de mensajes con MQTT utilizando el servivo de mensajeria pub/sub (publicación y suscripción) mediante la plataforma de node red con la finalidad de comprender el protocolo mqtt, sus funcionamiento, aplicación.
 ### Específicos:
 
-Analizar el protocolo de mensajería MQTT funcionamiento y aplicaion
+Analizar el protocolo de mensajería MQTT funcionamiento.
 
-Diseñar y desarrollar un programa que permita mostrar la plicaion del protocolo MQTT.
+Diseñar y desarrollar un programa que permita mostrar la aplicaión del protocolo MQTT.
 
 Estructurar la información obtenida como insumo para realizar una exposición ante la clase. 
 
@@ -80,15 +80,15 @@ Mediante un proceso se lo puede explicar de la siguiente manera, los clientes in
 
 Para enviar los mensajes el cliente emplea mensajes PUBLISH los cuales contienen el topic y el payload. 
 
-![](IMG/m 1.png)
+![](IMG/m1.png)
 
 Para suscribirse y desuscribirse se emplean mensajes SUBSCRIBE y UNSUSCRIBE, que el servidor lo responde con SUBACK y UNSUBACK. 
 
-![](IMG/m 2.png)
+![](IMG/m2.png)
 
 Para asegurar que la conexión siempre está activa los clientes periódicamente mandan un mensaje PINGREQ este es respondido por el servidor con un PINGRESP. 
 
-![](IMG/m 3.png)
+![](IMG/m3.png)
 
 Para que el cliente se logre desconectar este envia un mensaje de DISCONNECT.
 
