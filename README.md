@@ -141,17 +141,6 @@ Además, puede ser usado en varios campos como: para el control de sistemas de j
 ![](IMG/22.PNG)
 
 
-PyQt si está desarrollando algo serio, esto quiere decir a un programa más grande como el de estar realizando proces 24 horas o a tiempo real. Especialmente si las cosas que aprende se traducirán directamente a trabajar con Qt en otros idiomas si es necesario, y Qt es probablemente el mejor kit de herramientas de interfaz multiplataforma disponible en este momento.
-
-Solo hay dos desventajas reales (potenciales):
-
-PyQt solo está disponible bajo la GPL. Esto significa que si libera su código, debe estar disponible bajo una licencia compatible, en los términos de Excepción GPL de Nokia , o bajo una licencia comercial la cual cuesta. Esto contrasta con Qt, que ahora está disponible bajo la licencia LGPL.
-
-PyQt no se incluye de forma predeterminada con las instalaciones de Python. Vas a tener que empaquetar la biblioteca tú mismo. (Ars Technica tiene un buen artículo sobre cómo hacerlo para Windows y OS X.)
-
-### Una aporte adicional sería construir una calculadora científica. 
-
-![](IMG/33.PNG)
 
 
 
