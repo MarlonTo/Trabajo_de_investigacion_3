@@ -80,15 +80,15 @@ Mediante un proceso se lo puede explicar de la siguiente manera, los clientes in
 
 Para enviar los mensajes el cliente emplea mensajes PUBLISH los cuales contienen el topic y el payload. 
 
-![](IMG/m1.PNG)
+![](IMG/m 1.PNG)
 
 Para suscribirse y desuscribirse se emplean mensajes SUBSCRIBE y UNSUSCRIBE, que el servidor lo responde con SUBACK y UNSUBACK. 
 
-![](IMG/m2.PNG)
+![](IMG/m 2.PNG)
 
 Para asegurar que la conexión siempre está activa los clientes periódicamente mandan un mensaje PINGREQ este es respondido por el servidor con un PINGRESP. 
 
-![](IMG/m3.PNG)
+![](IMG/m 3.PNG)
 
 Para que el cliente se logre desconectar este envia un mensaje de DISCONNECT.
 
@@ -168,6 +168,8 @@ Por último, MQTT dispone de medidas adicionales importantes, como la seguridad 
 
  
 ## 9. RECOMENDACIONES
+
+Algo que se debe tener en cuenta es que para la realización de este proyecto se utilizó un sevidor local en Node-Red, pero si no se tiene un servidor se puede utlizar los servidores que se encuentran en la web, simpre y cuando se tenga en cuenta los parametros y propositos que ofrecen cada uno de estos serrvidores un ejemplo de estos servidores es "DIoTY"un agente MQTT en la nube para Internet de las cosas (IoT),proporcionando una infraestructura estable para construir sus proyectos de IoT; esta basado en MQTT, un protocolo de conectividad M2M / IoT estandarizado por OASIS MQTT TC.  
  
 ## 10. CRONOGRAMA
 
@@ -209,5 +211,3 @@ c
 ![](Anexos/ProyectoFisico.jpeg)
 ![](Anexos/ProyectoFisico2.jpeg)
 
-
-![](IMG/esp0.PNG)
