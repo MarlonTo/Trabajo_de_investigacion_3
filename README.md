@@ -87,11 +87,13 @@ imagen obtenida de:https://www.luisllamas.es/que-es-mqtt-su-importancia-como-pro
 Para suscribirse y desuscribirse se emplean mensajes SUBSCRIBE y UNSUSCRIBE, que el servidor lo responde con SUBACK y UNSUBACK. 
 
 ![](IMG/m2.png)
+
 imagen obtenida de:https://www.luisllamas.es/que-es-mqtt-su-importancia-como-protocolo-iot/
 
 Para asegurar que la conexión siempre está activa los clientes periódicamente mandan un mensaje PINGREQ este es respondido por el servidor con un PINGRESP. 
 
 ![](IMG/m3.png)
+
 imagen obtenida de:https://www.luisllamas.es/que-es-mqtt-su-importancia-como-protocolo-iot/
 
 Para que el cliente se logre desconectar este envia un mensaje de DISCONNECT.
