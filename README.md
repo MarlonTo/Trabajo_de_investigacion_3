@@ -206,5 +206,5 @@ c
 ![](Anexos/CodigoAportacion.JPG)
 ![](Anexos/CodigoAportacion.JPG)
 ![](Anexos/CodigoAportacion2.JPG)
-![](Anexos/ProyectoFisico.JPG)
+![](IMG/ProyectoFisico.JPG)
 
