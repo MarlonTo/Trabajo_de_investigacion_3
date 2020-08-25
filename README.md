@@ -80,15 +80,15 @@ Mediante un proceso se lo puede explicar de la siguiente manera, los clientes in
 
 Para enviar los mensajes el cliente emplea mensajes PUBLISH los cuales contienen el topic y el payload. 
 
-![](IMG/m 1.PNG)
+![](IMG/m 1.png)
 
 Para suscribirse y desuscribirse se emplean mensajes SUBSCRIBE y UNSUSCRIBE, que el servidor lo responde con SUBACK y UNSUBACK. 
 
-![](IMG/m 2.PNG)
+![](IMG/m 2.png)
 
 Para asegurar que la conexión siempre está activa los clientes periódicamente mandan un mensaje PINGREQ este es respondido por el servidor con un PINGRESP. 
 
-![](IMG/m 3.PNG)
+![](IMG/m 3.png)
 
 Para que el cliente se logre desconectar este envia un mensaje de DISCONNECT.
 
