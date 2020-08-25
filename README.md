@@ -1,5 +1,5 @@
 # Informe 
-## Análisis de 3 bibliotecas GUI para Python 
+## Envío y recepción de mensajes MQTT con pub/sub en Node -Red  
 
 ## 1.PLANTEAMIENTO DEL PROBLEMA
 
