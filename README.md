@@ -140,11 +140,9 @@ Además, puede ser usado en varios campos como: para el control de sistemas de j
 
 ![](IMG/22.PNG)
 
+La apartacion que se realiizo en este jercicio es crear de forma practica delproblema plantea  en NODE-RED el cual implica una placa de arduino de wifi la cual sirve de do funciones la primera como publicador del estado de una puerta mediante un sensor el cual publica si se abrio la puerta o si esta esta cerrada, la segunda acción que se realizo con el arduino es cuando el dashboard publica el estado de un feco esa publicació le llega al suscriptores que en este caso es la placa esp8266 el cual hace actuar el foco con la señal que mande el dashbord
 
-
-
-
-El código fuente se encuentra en el anexo 1. 
+El código fuente del arduino se encuentra en el anexo ArduinoAlarma. 
 
  
 ## 8. CONCLUSIONES
