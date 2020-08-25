@@ -166,7 +166,14 @@ Algo que se debe tener en cuenta es que para la realización de este proyecto se
  
 ## 10. CRONOGRAMA
 
-![](IMG/15.PNG)
+![](IMG/cronograma_p1.png)
+
+
+![](IMG/cronograma_p1.png)
+
+
+![](IMG/cronograma_p1.png)
+
 
  
 ## 11. BIBLIOGRAFÍA:
