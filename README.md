@@ -14,7 +14,7 @@ Desarrollar un programa que permita el envío y recepción de mensajes con MQTT 
 
 Analizar el protocolo de mensajería MQTT funcionamiento.
 
-Diseñar y desarrollar un programa que permita mostrar la aplicaión del protocolo MQTT.
+Diseñar y desarrollar un programa que permita mostrar la aplicación del protocolo MQTT.
 
 Estructurar la información obtenida como insumo para realizar una exposición ante la clase. 
 
@@ -82,13 +82,17 @@ Para enviar los mensajes el cliente emplea mensajes PUBLISH los cuales contienen
 
 ![](IMG/m1.png)
 
+imagen obtenida de:https://www.luisllamas.es/que-es-mqtt-su-importancia-como-protocolo-iot/
+
 Para suscribirse y desuscribirse se emplean mensajes SUBSCRIBE y UNSUSCRIBE, que el servidor lo responde con SUBACK y UNSUBACK. 
 
 ![](IMG/m2.png)
+imagen obtenida de:https://www.luisllamas.es/que-es-mqtt-su-importancia-como-protocolo-iot/
 
 Para asegurar que la conexión siempre está activa los clientes periódicamente mandan un mensaje PINGREQ este es respondido por el servidor con un PINGRESP. 
 
 ![](IMG/m3.png)
+imagen obtenida de:https://www.luisllamas.es/que-es-mqtt-su-importancia-como-protocolo-iot/
 
 Para que el cliente se logre desconectar este envia un mensaje de DISCONNECT.
 
@@ -140,9 +144,11 @@ Además, puede ser usado en varios campos como: para el control de sistemas de j
 
 ![](IMG/22.PNG)
 
-La apartacion que se realiizo en este jercicio es crear de forma practica delproblema plantea  en NODE-RED el cual implica una placa de arduino de wifi la cual sirve de do funciones la primera como publicador del estado de una puerta mediante un sensor el cual publica si se abrio la puerta o si esta esta cerrada, la segunda acción que se realizo con el arduino es cuando el dashboard publica el estado de un feco esa publicació le llega al suscriptores que en este caso es la placa esp8266 el cual hace actuar el foco con la señal que mande el dashbord
 
-El código fuente del arduino se encuentra en el anexo ArduinoAlarma. 
+
+
+
+El código fuente se encuentra en el anexo 1. 
 
  
 ## 8. CONCLUSIONES
