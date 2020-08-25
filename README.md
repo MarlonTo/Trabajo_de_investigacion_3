@@ -199,12 +199,12 @@ López, R. V. (2020). Propuesta de una estación móvil para la medición de la 
  
  
 ## 12. ANEXOS
-![](IMG/CapturaNoteRed.JPG)
+c
 ![](IMG/CapturaNoteRed2.JPG)
 ![](IMG/CapturaNoteRed3.JPG)
 ![](Anexos/CodigoAportacion.JPG)
 ![](Anexos/CodigoAportacion.JPG)
 ![](Anexos/CodigoAportacion.JPG)
 ![](Anexos/CodigoAportacion2.JPG)
-
+![](Anexos/ProyectoFisico.JPG)
 
