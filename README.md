@@ -129,10 +129,10 @@ Además, puede ser usado en varios campos como: para el control de sistemas de j
 
 
 ## 5. LISTA DE COMPONENTES
- 
+ [](IMG/Lista Componentes.PNG)
 ## 6. MAPA DE VARIABLES
 
-![](IMG/Capture.PNG)
+![](IMG/MapaVariables.PNG)
  
 
 
